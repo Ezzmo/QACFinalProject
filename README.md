@@ -17,11 +17,14 @@
 <a name="Introduction"></a>
 ## Introduction 
 ### Project Brief
-The general outline of this project was to use all of the concepts from previous training modules to plan, design and implement a solution for automating the deployments and development workflows of the projects that are linked below: 
+The general outline of this project was to use all of the concepts from previous training modules to plan, design and implement a solution for automating the deployments and development workflows for the projects that are linked below: 
  
  https://github.com/spring-petclinic/spring-petclinic-angular
  
  https://github.com/spring-petclinic/spring-petclinic-rest
+ 
+As a group of 4 individuals we would have to either use the tools we had been taught during our training such as **Terraform, Kubernetes, Ansible** or utilise other tools that woudld work in a similar fashion to these justifying why they would be the most preferable for deployemt. 
+
 
 <a name="planning"></a>
 ## Planning
