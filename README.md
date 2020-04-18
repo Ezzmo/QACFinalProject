@@ -3,7 +3,7 @@
 ## Contents 
 * [Introduction](#Introduction) 
 * [Deployment Prerequisites](#Prerequisites) 
-* [Planning](#Planning)
+* [Planning](#planning)
 * [Use Cases](#UserCases)
 * [Risk Analysis](#Risk) 
 * [Technologies Used](#Technology) 
@@ -21,7 +21,7 @@
 Deployment of https://github.com/spring-petclinic/spring-petclinic-angular
               https://github.com/spring-petclinic/spring-petclinic-rest
 
-<a name="Planning"></a>
+<a name="planning"></a>
 ## Planning
 
 
@@ -39,3 +39,23 @@ Deployment of https://github.com/spring-petclinic/spring-petclinic-angular
 
 <a name="Technology"></a>
 ## Technologies Used
+
+
+<a name="Testing"></a>
+## Testing Environment
+
+
+<a name="Deployment"></a>
+## Deployment
+
+
+<a name="Costs"></a>
+## Costs
+
+
+<a name="Conclusion"></a>
+## Project Conclusion
+
+
+<a name="FutureWork"></a>
+## Future Work
