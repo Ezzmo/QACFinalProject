@@ -17,9 +17,11 @@
 <a name="Introduction"></a>
 ## Introduction 
 ### Project Brief
-
-Deployment of https://github.com/spring-petclinic/spring-petclinic-angular
-              https://github.com/spring-petclinic/spring-petclinic-rest
+The general outline of this project was to use all of the concepts from previous training modules to plan, design and implement a solution for automating the deployments and development workflows of the projects that are linked below: 
+ 
+ https://github.com/spring-petclinic/spring-petclinic-angular
+ 
+ https://github.com/spring-petclinic/spring-petclinic-rest
 
 <a name="planning"></a>
 ## Planning
