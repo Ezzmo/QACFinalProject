@@ -21,7 +21,7 @@ The general outline of this project was to use all the concepts from previous tr
  
 **Frontend client using AngularJS** https://github.com/spring-petclinic/spring-petclinic-angular
  
- **API using Java** (https://github.com/spring-petclinic/spring-petclinic-rest
+ **API using Java** https://github.com/spring-petclinic/spring-petclinic-rest
  
 As a group of 4 individuals we would have to either use the tools we had been taught during our training such as **Terraform, Kubernetes, Ansible** or utilise other tools that would work in a similar fashion to these justifying why they would be the most preferable for deployment. 
 
