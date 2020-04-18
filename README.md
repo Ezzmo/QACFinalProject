@@ -15,27 +15,27 @@
 
 
 <a name="Introduction"></a>
-# Introduction 
-## Project Brief
+## Introduction 
+### Project Brief
 
 Deployment of https://github.com/spring-petclinic/spring-petclinic-angular
               https://github.com/spring-petclinic/spring-petclinic-rest
 
 <a name="Planning"></a>
-# Planning
+## Planning
 
 
 <a name="Prerequisites"></a>
-# Deployment Prerequisites
+## Deployment Prerequisites
 
 
 <a name="UserCases"></a>
-# User Cases
+## User Cases
 
 
 <a name="Risk"></a>
-# Risk Analysis
+## Risk Analysis
 
 
 <a name="Technology"></a>
-# Technologies Used
+## Technologies Used
