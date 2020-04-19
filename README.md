@@ -39,7 +39,9 @@ Our Trainer Jay Grindrod
 
 ### Team members
 https://github.com/AlinaDenisaB
+
 https://github.com/Ezzmo
+
 https://github.com/code-wizard91
 
 ### Scrum Master 
