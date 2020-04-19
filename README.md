@@ -35,7 +35,7 @@ Therefore, throughout the duration of this project we chose to employ **Scrum** 
 
 This link further explains the benifits of using **SCRUM** [![Scrum Link](https://github.com/zReginaldo/MySQLdb/blob/master/Document/youtube-logo-png-46031.png)](https://www.youtube.com/watch?v=2Vt7Ik8Ublw)
 
-Group member roles: 
+### Group member roles: 
 
 ### Product owner 
 Our Trainer Jay Grindrod 
