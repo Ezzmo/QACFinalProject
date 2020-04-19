@@ -27,6 +27,11 @@ As a group of 4 individuals we would have to either use the tools we had been ta
 
 The deployment of this project would require automated building and re-deployment to testing and live environments upon any GitHub changes, whilst also keeping track of running costs.   
 
+
+<a name="Prerequisites"></a>
+## Deployment Prerequisites
+
+
 <a name="planning"></a>
 ## Planning
 
@@ -52,9 +57,6 @@ https://github.com/code-wizard91
 ### Scrum Master 
  https://github.com/zReginaldo
 
-
-<a name="Prerequisites"></a>
-## Deployment Prerequisites
 
 
 <a name="UserCases"></a>
