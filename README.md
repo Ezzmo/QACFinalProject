@@ -34,7 +34,8 @@ As this is a group project composed of 4 members, there will need to be adequate
 
 Therefore, throughout the duration of this project we chose to employ **Scrum** as our project management framework. Unlike conventional methods of project planning, Scrum promotes and encourages teams to learn through experiences, self-organise and share ideas whilst working towards resolving a problem.
 
-[![Scrum Link](https://github.com/zReginaldo/MySQLdb/blob/master/Document/youtube-logo-png-46031.png)](https://www.youtube.com/watch?v=2Vt7Ik8Ublw) This link further explains the benifits of using **SCRUM** 
+This short video further explains the benifits of using **SCRUM**
+[![Scrum Link](https://github.com/zReginaldo/MySQLdb/blob/master/Document/youtube-logo-png-46031.png)](https://www.youtube.com/watch?v=2Vt7Ik8Ublw) 
 
 ### Group member roles: 
 
