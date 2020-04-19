@@ -33,9 +33,11 @@ The deployment of this project would require automated building and re-deploymen
 As this is a group project composed of 4 members, there will need to be adequate planning measures in place so that all individuals can work efficiently and coherently towards the main goal which is the successful deployment of the application.  
 Therefore, throughout the duration of this project we chose to employ **Scrum** as our project management framework. Unlike conventional methods of project planning, Scrum promotes and encourages teams to learn through experiences, self-organise and share ideas whilst working towards resolving a problem.
 
+The link below further explains the benifits of using **SCRUM** 
+
 [![Scrum Link](https://github.com/zReginaldo/MySQLdb/blob/master/Document/youtube-logo-png-46031.png)](https://www.youtube.com/watch?v=2Vt7Ik8Ublw)
 
-There are three roles in **Scrum**:
+Group member roles: 
 
 ### Product owner 
 Our Trainer Jay Grindrod 
