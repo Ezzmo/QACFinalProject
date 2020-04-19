@@ -34,15 +34,15 @@ As this is a group project composed of 4 members, there will need to be adequate
 Therefore, throughout the duration of this project we chose to employ **Scrum** as our project management framework. Unlike conventional methods of project planning, Scrum promotes and encourages teams to learn through experiences, self-organise and share ideas whilst working towards resolving a problem.
 There are three roles in **Scrum**:
 
-###Product owner 
+### Product owner 
 Our Trainer Jay Grindrod 
 
-###Team members
+### Team members
 https://github.com/AlinaDenisaB
 https://github.com/Ezzmo
 https://github.com/code-wizard91
 
-###Scrum Master 
+### Scrum Master 
  https://github.com/zReginaldo
 
 
