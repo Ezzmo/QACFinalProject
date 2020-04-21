@@ -25,6 +25,7 @@ spec:
       labels:
         app: backend
     spec:
+      hostname: backend
       containers:
       - name: backend
         image: alimizan/petclinic-backend:latest

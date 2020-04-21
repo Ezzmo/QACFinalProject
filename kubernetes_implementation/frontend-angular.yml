@@ -26,8 +26,9 @@ spec:
       labels:
         app: frontend
     spec:
+      hostname: frontend
       containers:
       - name: frontend
-        image: alimizan/spring-petclinic-angular:latest
+        image: alimizan/spring-petclinic-angular-with-ip:latest
         ports:
         - containerPort: 4200
