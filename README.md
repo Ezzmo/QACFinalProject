@@ -67,6 +67,7 @@ https://github.com/code-wizard91
 <a name="UserCases"></a>
 ## User Cases
 Developer:
+
 •	I need the tests to be automatically begin once I push my changes to a repo and be able to monitor the results/progress.
 
 •	Successful updates need to be deployed to production with little to no downtime.
