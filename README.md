@@ -2,6 +2,7 @@
 
 ## Contents 
 * [Introduction](#Introduction) 
+* [Deployment Pipeline](#pipeline) 
 * [Deployment Prerequisites](#Prerequisites) 
 * [Planning](#planning)
 * [Use Cases](#UserCases)
@@ -23,13 +24,15 @@ The general outline of this project was to use all the concepts from previous tr
  
  **API using Java** https://github.com/spring-petclinic/spring-petclinic-rest
  
-## Deployment Pipeline
-![s5](/Documentation/pipeline.jpg)
+
  
 As a group of 4 individuals we would have to either use the tools we had been taught during our training such as **Terraform, Kubernetes, Ansible** or utilise other tools that would work in a similar fashion to these justifying why they would be the most preferable for deployment. 
 
 The deployment of this project would require automated building and re-deployment to testing and live environments upon any GitHub changes, whilst also keeping track of running costs.   
 
+<a name="pipeline"></a>
+## Deployment Pipeline
+![s5](/Documentation/Pipeline.jpg)
 
 <a name="Prerequisites"></a>
 ## Deployment Prerequisites
