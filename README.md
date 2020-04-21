@@ -66,7 +66,13 @@ https://github.com/code-wizard91
 
 <a name="UserCases"></a>
 ## User Cases
-
+Developer:
+•	I need the tests to be automatically begin once I push my changes to a repo and be able to monitor the results/progress.
+•	Successful updates need to be deployed to production with little to no downtime.
+Engineer:
+•	As an engineer, I need to be able to monitor the pipeline, regarding costs, networks and health of deployment.
+User:
+•	I need access to the web-app and trust that any information stored is secure.
 
 <a name="Risk"></a>
 ## Risk Analysis
