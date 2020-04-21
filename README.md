@@ -90,9 +90,8 @@ User:
 ## Technologies Used
 
 
-<a name="Testing"></a>
-## Testing Environment
-
+<a name="Environments"></a>
+## Environments
 
 <a name="Deployment"></a>
 ## Deployment
