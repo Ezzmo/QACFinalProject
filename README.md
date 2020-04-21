@@ -3,6 +3,7 @@
 ## Contents 
 * [Introduction](#Introduction) 
 * [Deployment Pipeline](#pipeline) 
+* [Deployment Pretequisites](#prerequisites)
 * [Planning](#planning)
 * [Use Cases](#UserCases)
 * [Risk Analysis](#Risk) 
@@ -33,7 +34,8 @@ The deployment of this project would require automated building and re-deploymen
 ## Deployment Pipeline
 ![s5](/Documentation/Pipeline.jpg)
 
-
+<a name="prerequisites"></a>
+## Deployment Prerequisites
 
 <a name="planning"></a>
 ## Planning
